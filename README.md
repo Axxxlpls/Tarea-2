@@ -22,7 +22,7 @@ La siguiente pagina web tiene como objetivo el saber usar la etiqueta "<article>
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
+Repositorio en GitHub: https://github.com/Axxxlpls/Tarea-2
 Deploy: [LINK](http://yomidev.github.io/newsletter/)
 ---
 
